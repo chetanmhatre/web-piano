@@ -13,7 +13,7 @@
   .piano-container {
     display: flex;
     width: 81vw;
-    height: 45vh;
+    height: 35vh;
     border: 10px solid #000634;
     border-radius: 1rem;
     margin: 0 auto;
@@ -24,7 +24,6 @@
   }
   
   .key {
-    margin-top: 3rem;
     width: 2.5rem;
     height: 10rem;
     border-radius: 0 0 4px 4px;
