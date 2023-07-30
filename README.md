@@ -1,2 +1,3 @@
 # web-piano
-Online Piano
+permalink: /Piano/index.html
+
